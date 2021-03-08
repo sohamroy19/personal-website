@@ -2552,11 +2552,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #914eb7;/* search this #b74e91;*/
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #753d95/* search this #953d75;*/
 				}
 
 /* Image */
