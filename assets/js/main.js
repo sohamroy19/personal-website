@@ -33,7 +33,7 @@
 	// Forms.
 
 		// Hack: Activate non-input submits.
-			$('form').on('.submit', function(event) {
+			$('form').on('click', function(event) {
 
 				// Stop propagation, default.
 					event.stopPropagation();
