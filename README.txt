@@ -1,4 +1,4 @@
-www.sohamroy.ml
+www.sohamroy.tech
 Personal website using the template made by @ajlkn at html5up.net
 Do check that out if you're a web developer!
 
